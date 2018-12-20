@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ad_title: MyString
+  ad_url: MyString
+  location: MyString
+  model_year: 1
+  body_type: MyString
+  thumbnail_url: MyString
+  gallery_url: MyString
+  vin: MyString
+  series: MyString
+  type: 
+  engine: MyString
+  power: MyString
+
+two:
+  ad_title: MyString
+  ad_url: MyString
+  location: MyString
+  model_year: 1
+  body_type: MyString
+  thumbnail_url: MyString
+  gallery_url: MyString
+  vin: MyString
+  series: MyString
+  type: 
+  engine: MyString
+  power: MyString

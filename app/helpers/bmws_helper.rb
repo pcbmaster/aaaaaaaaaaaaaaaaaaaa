@@ -1,0 +1,2 @@
+module BmwsHelper
+end
